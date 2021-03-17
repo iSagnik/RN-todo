@@ -1,2 +1,2 @@
-# RN-todo
-React Native Todo App
+# RN-Todo
+Todo App built to learn React Native
